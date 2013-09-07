@@ -7,9 +7,18 @@ body {
     padding-top: 20px;
     background: none;
 }
+.jumbotron {
+    padding-top: 6%;
+}
+.jumbotron p {
+    padding-bottom: 20px;
+}
 .footer {
     padding-top: 5px;
     font-family: 'Rancho', cursive;
     color: #444;
     font-size: 30px;
+}
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
 }
